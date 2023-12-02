@@ -52,8 +52,7 @@
   min-height: 450px;
   background-position: center;
 }
-#r2 > .container > .row > .col-lg-6:last-child > h1 {
-  font-size: 3.5vw;
+
 }
 /*row3*/
 #r3 > .row > .col-lg-6:last-child > p:first-child {
